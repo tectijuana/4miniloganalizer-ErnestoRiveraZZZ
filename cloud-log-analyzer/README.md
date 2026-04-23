@@ -58,7 +58,7 @@ El repositorio incluye un archivo `Makefile` preconfigurado para automatizar el 
 
 Para validar la correcta compilación y el funcionamiento del programa en el entorno AWS (demostrando la autoría y la ejecución pura del ensamblador), se ha documentado el proceso mediante Asciinema.
 
-https://asciinema.org/a/QF3DUf11UyJO2auK
+https://asciinema.org/a/dfyoBYQRdyc6NYMk
 
 ---
 
